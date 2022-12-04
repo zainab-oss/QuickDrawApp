@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(darkseagreen, gainsboro);
+}
+
+h1 {
+    font-family: cursive;
+    color: darkslategrey;
+    background-color:bisque;
+    font-weight: bolder;
+}
+
+.modal-body {
+    background-color:lightgray;
+}
+
+#instruct {
+    background-color:aquamarine;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.modal-header {
+    background-color:azure;
+}
+
+.modal-title {
+    font-family: cursive;
+}
+
+#show_sketch {
+    float: right;
+}
+
+p, span {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#scores 
+{
+    margin: left;
+    float: left;
+    font-size: large;
+}
+
+#times 
+{
+    margin: right;
+    float: right;
+    font-size: large;
+}
+
+#finalsketchp
+{
+    color: brown;
+}
